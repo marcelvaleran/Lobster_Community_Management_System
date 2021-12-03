@@ -1,0 +1,104 @@
+body {
+     background-color: #f9f9fa
+ }
+
+ .flex {
+     -webkit-box-flex: 1;
+     -ms-flex: 1 1 auto;
+     flex: 1 1 auto
+ }
+
+ @media (max-width:991.98px) {
+     .padding {
+         padding: 1.5rem
+     }
+ }
+
+ @media (max-width:767.98px) {
+     .padding {
+         padding: 1rem
+     }
+ }
+
+ .padding {
+     padding: 1rem
+ }
+
+ .card {
+     box-shadow: none;
+     -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+     -ms-box-shadow: none;
+ }
+
+ .card {
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     min-width: 0;
+     word-wrap: break-word;
+     background-clip: border-box;
+     border: 1px solid #fff;
+     
+ }
+
+ .card-body{
+    border-radius: 8px;
+ }
+
+ .card .card-title {
+     color: #ccfd09;
+     margin-bottom: 0.625rem;
+     text-transform: capitalize;
+     font-family:'Noto Sans', sans-serif;
+ }
+
+ .card .card-description {
+     margin-bottom: .875rem;
+     color: #76838f
+ }
+
+ p {
+     margin-bottom: .5rem;
+     line-height: 1.5rem
+ }
+
+ .table-responsive {
+     display: block;
+     width: 100%;
+     overflow-x: auto;
+     -webkit-overflow-scrolling: touch;
+     -ms-overflow-style: -ms-autohiding-scrollbar
+ }
+
+ .table,
+ .jsgrid .jsgrid-table {
+     width: 100%;
+     max-width: 100%;
+     margin-bottom: 1rem;
+     background-color: transparent
+ }
+
+ .table thead th,
+ .jsgrid .jsgrid-table thead th {
+     border-top: 0;
+     border-bottom-width: 1px;
+     text-transform: uppercase
+ }
+
+ .table td,
+ .jsgrid .jsgrid-table td {
+     padding: .875rem 0.9375rem;
+     color: #fff;
+ }
+
+ .badge {
+     border-radius: 0;
+     line-height: 1;
+     padding: .375rem .5625rem;
+     font-weight: normal
+ }
+
+ #myInput {
+  width: 25%;
+}
