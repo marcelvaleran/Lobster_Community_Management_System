@@ -13,6 +13,7 @@ Config files for my GitHub profile.
 ![Screenshot (66)](https://user-images.githubusercontent.com/62010115/144583683-59364c7e-0b5e-4512-ad95-491152f86996.png)
 ![Screenshot (67)](https://user-images.githubusercontent.com/62010115/144583708-118493da-7eff-4ec0-bd63-2893219b1638.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/62010115/144583718-c43c1a46-27f1-4923-ae95-01fa0fb35697.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/62010115/144583731-a190f69d-e4b9-4e83-9f7f-629ca7a26433.png)
+![image](https://user-images.githubusercontent.com/62010115/146935373-bfb42d42-e6e9-46b9-8914-8ba57e4b5cbd.png)
+![image](https://user-images.githubusercontent.com/62010115/146935466-dbce5260-d7f2-4bf0-a625-6a3c962061cb.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/62010115/144583764-d0f3254c-4c38-42f2-8211-520c74d30e7f.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/62010115/144583806-58f61337-b7c5-4467-9248-19344174258b.png)
